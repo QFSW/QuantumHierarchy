@@ -1,6 +1,10 @@
 # Quantum Hierarchy ![](https://img.shields.io/github/issues-closed-raw/QFSW/QuantumHierarchy.svg?color=51c414) ![](https://img.shields.io/github/issues-raw/QFSW/QuantumHierarchy.svg?color=c41414&style=popout)
 A simple but effective tool to inspect hidden objects in loaded scenes
 
+![img](Images~/Comparison.png)
+
+
+
 ### Installation via Package Manager
 
 #### Dependencies
