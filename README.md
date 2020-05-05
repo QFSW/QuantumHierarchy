@@ -9,7 +9,7 @@ A simple but effective tool for the Unity Engine to inspect hidden objects in lo
 
 #### Dependencies
 
-This package requires [**QGUI**](https://github.com/QFSW/QGUI) to be installed first
+This package requires [**QGUI** V1.0.0+](https://github.com/QFSW/QGUI) to be installed first
 
 #### 2019.3+
 

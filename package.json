@@ -10,11 +10,12 @@
     "url": "https://github.com/QFSW/QuantumHierarchy/issues"
   },
 
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2018.3",
 
   "license": "LICENSE.md",
   "readme": "README.md",
+  "changelog": "CHANGELOG.md",
 
   "dependencies": {
     "com.qfsw.qgui": "1.0.0"
